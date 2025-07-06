@@ -1,0 +1,79 @@
+{
+  "Categories": [
+    {
+      "CategoryId": 1,
+      "CategoryName": "Electronics",
+      "Description": "Electronic devices and accessories"
+    },
+    {
+      "CategoryId": 2,
+      "CategoryName": "Clothing",
+      "Description": "Apparel and fashion items"
+    },
+    {
+      "CategoryId": 3,
+      "CategoryName": "Books",
+      "Description": "Books and educational materials"
+    }
+  ],
+  "Suppliers": [
+    {
+      "SupplierId": 1,
+      "SupplierName": "TechCorp Solutions",
+      "ContactPerson": "John Smith",
+      "Email": "john@techcorp.com",
+      "Phone": "555-0101",
+      "Address": "123 Tech Street, Silicon Valley, CA"
+    },
+    {
+      "SupplierId": 2,
+      "SupplierName": "Fashion World Inc",
+      "ContactPerson": "Sarah Johnson",
+      "Email": "sarah@fashionworld.com",
+      "Phone": "555-0102",
+      "Address": "456 Fashion Ave, New York, NY"
+    }
+  ],
+  "Customers": [
+    {
+      "CustomerId": 1,
+      "FirstName": "John",
+      "LastName": "Doe",
+      "Email": "john.doe@email.com",
+      "Phone": "123-456-7890",
+      "Address": "123 Main St, Anytown, USA"
+    },
+    {
+      "CustomerId": 2,
+      "FirstName": "Jane",
+      "LastName": "Smith",
+      "Email": "jane.smith@email.com",
+      "Phone": "098-765-4321",
+      "Address": "456 Oak Ave, Somewhere, USA"
+    }
+  ],
+  "Products": [
+    {
+      "ProductId": 1,
+      "ProductName": "Laptop Pro 15",
+      "Description": "High-performance laptop with 16GB RAM",
+      "Price": 1299.99,
+      "CostPrice": 899.99,
+      "StockQuantity": 50,
+      "CategoryId": 1,
+      "SupplierId": 1,
+      "SKU": "SKU-LAP-001"
+    },
+    {
+      "ProductId": 2,
+      "ProductName": "Premium T-Shirt",
+      "Description": "100% cotton premium t-shirt",
+      "Price": 29.99,
+      "CostPrice": 14.99,
+      "StockQuantity": 200,
+      "CategoryId": 2,
+      "SupplierId": 2,
+      "SKU": "SKU-TSH-002"
+    }
+  ]
+}

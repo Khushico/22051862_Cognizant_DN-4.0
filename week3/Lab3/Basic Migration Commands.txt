@@ -1,0 +1,29 @@
+# 1. Create initial migration
+dotnet ef migrations add InitialCreate
+
+# 2. Update database with migration
+dotnet ef database update
+
+# 3. Create a new migration for adding Supplier
+dotnet ef migrations add AddSupplierEntity
+
+# 4. Create migration for updating Product with new fields
+dotnet ef migrations add UpdateProductWithSupplierFields
+
+# 5. Apply specific migration
+dotnet ef database update AddSupplierEntity
+
+# 6. View migration history
+dotnet ef migrations list
+
+# 7. Generate SQL script for migration
+dotnet ef migrations script
+
+# 8. Generate SQL script between specific migrations
+dotnet ef migrations script InitialCreate AddSupplierEntity
+
+# 9. Remove last migration (if not applied)
+dotnet ef migrations remove
+
+# 10. Rollback to specific migration
+dotnet ef database update InitialCreate
