@@ -1,0 +1,131 @@
+C:\Users\KIIT\Desktop\Week5\fifth\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\KIIT\Desktop\Week5\fifth\bin\Debug\net9.0\appsettings.json
+C:\Users\KIIT\Desktop\Week5\fifth\bin\Debug\net9.0\fifth.staticwebassets.endpoints.json
+C:\Users\KIIT\Desktop\Week5\fifth\bin\Debug\net9.0\fifth.exe
+C:\Users\KIIT\Desktop\Week5\fifth\bin\Debug\net9.0\fifth.deps.json
+C:\Users\KIIT\Desktop\Week5\fifth\bin\Debug\net9.0\fifth.runtimeconfig.json
+C:\Users\KIIT\Desktop\Week5\fifth\bin\Debug\net9.0\fifth.dll
+C:\Users\KIIT\Desktop\Week5\fifth\bin\Debug\net9.0\fifth.pdb
+C:\Users\KIIT\Desktop\Week5\fifth\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\KIIT\Desktop\Week5\fifth\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\KIIT\Desktop\Week5\fifth\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\KIIT\Desktop\Week5\fifth\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\KIIT\Desktop\Week5\fifth\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\KIIT\Desktop\Week5\fifth\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\KIIT\Desktop\Week5\fifth\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\KIIT\Desktop\Week5\fifth\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\KIIT\Desktop\Week5\fifth\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\KIIT\Desktop\Week5\fifth\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\KIIT\Desktop\Week5\fifth\obj\Debug\net9.0\fifth.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\Week5\fifth\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\KIIT\Desktop\Week5\fifth\obj\Debug\net9.0\fifth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\Week5\fifth\obj\Debug\net9.0\fifth.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\Week5\fifth\obj\Debug\net9.0\fifth.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\Week5\fifth\obj\Debug\net9.0\fifth.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\Week5\fifth\obj\Debug\net9.0\fifth.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\KIIT\Desktop\Week5\fifth\obj\Debug\net9.0\fifth.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\KIIT\Desktop\Week5\fifth\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\KIIT\Desktop\Week5\fifth\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\KIIT\Desktop\Week5\fifth\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\KIIT\Desktop\Week5\fifth\obj\Debug\net9.0\scopedcss\bundle\fifth.styles.css
+C:\Users\KIIT\Desktop\Week5\fifth\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\KIIT\Desktop\Week5\fifth\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\KIIT\Desktop\Week5\fifth\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\KIIT\Desktop\Week5\fifth\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\KIIT\Desktop\Week5\fifth\obj\Debug\net9.0\fifth.csproj.Up2Date
+C:\Users\KIIT\Desktop\Week5\fifth\obj\Debug\net9.0\fifth.dll
+C:\Users\KIIT\Desktop\Week5\fifth\obj\Debug\net9.0\refint\fifth.dll
+C:\Users\KIIT\Desktop\Week5\fifth\obj\Debug\net9.0\fifth.pdb
+C:\Users\KIIT\Desktop\Week5\fifth\obj\Debug\net9.0\fifth.genruntimeconfig.cache
+C:\Users\KIIT\Desktop\Week5\fifth\obj\Debug\net9.0\ref\fifth.dll
+C:\Users\KIIT\Desktop\Week5\fifth\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\KIIT\Desktop\Week5\fifth\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\KIIT\Desktop\Week5\fifth\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\week4_5\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\week4_5\bin\Debug\net9.0\appsettings.json
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\week4_5\bin\Debug\net9.0\fifth.staticwebassets.endpoints.json
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\week4_5\bin\Debug\net9.0\fifth.exe
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\week4_5\bin\Debug\net9.0\fifth.deps.json
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\week4_5\bin\Debug\net9.0\fifth.runtimeconfig.json
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\week4_5\bin\Debug\net9.0\fifth.dll
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\week4_5\bin\Debug\net9.0\fifth.pdb
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\week4_5\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\week4_5\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\week4_5\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\week4_5\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\week4_5\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\week4_5\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\week4_5\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\week4_5\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\week4_5\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\week4_5\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\week4_5\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\week4_5\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\week4_5\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\week4_5\obj\Debug\net9.0\fifth.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\week4_5\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\week4_5\obj\Debug\net9.0\fifth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\week4_5\obj\Debug\net9.0\fifth.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\week4_5\obj\Debug\net9.0\fifth.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\week4_5\obj\Debug\net9.0\fifth.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\week4_5\obj\Debug\net9.0\fifth.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\week4_5\obj\Debug\net9.0\fifth.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\week4_5\obj\Debug\net9.0\fifth.sourcelink.json
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\week4_5\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\week4_5\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\week4_5\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\week4_5\obj\Debug\net9.0\scopedcss\bundle\fifth.styles.css
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\week4_5\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\week4_5\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\week4_5\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\week4_5\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\week4_5\obj\Debug\net9.0\fifth.csproj.Up2Date
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\week4_5\obj\Debug\net9.0\fifth.dll
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\week4_5\obj\Debug\net9.0\refint\fifth.dll
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\week4_5\obj\Debug\net9.0\fifth.pdb
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\week4_5\obj\Debug\net9.0\fifth.genruntimeconfig.cache
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\week4_5\obj\Debug\net9.0\ref\fifth.dll
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\Week-5(Super set ID-6364968)\Auth\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\Week-5(Super set ID-6364968)\Auth\bin\Debug\net9.0\fifth.staticwebassets.endpoints.json
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\Week-5(Super set ID-6364968)\Auth\bin\Debug\net9.0\appsettings.json
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\Week-5(Super set ID-6364968)\Auth\bin\Debug\net9.0\fifth.exe
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\Week-5(Super set ID-6364968)\Auth\bin\Debug\net9.0\fifth.deps.json
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\Week-5(Super set ID-6364968)\Auth\bin\Debug\net9.0\fifth.runtimeconfig.json
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\Week-5(Super set ID-6364968)\Auth\bin\Debug\net9.0\fifth.dll
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\Week-5(Super set ID-6364968)\Auth\bin\Debug\net9.0\fifth.pdb
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\Week-5(Super set ID-6364968)\Auth\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\Week-5(Super set ID-6364968)\Auth\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\Week-5(Super set ID-6364968)\Auth\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\Week-5(Super set ID-6364968)\Auth\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\Week-5(Super set ID-6364968)\Auth\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\Week-5(Super set ID-6364968)\Auth\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\Week-5(Super set ID-6364968)\Auth\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\Week-5(Super set ID-6364968)\Auth\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\Week-5(Super set ID-6364968)\Auth\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\Week-5(Super set ID-6364968)\Auth\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\Week-5(Super set ID-6364968)\Auth\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\Week-5(Super set ID-6364968)\Auth\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\Week-5(Super set ID-6364968)\Auth\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\Week-5(Super set ID-6364968)\Auth\obj\Debug\net9.0\fifth.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\Week-5(Super set ID-6364968)\Auth\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\Week-5(Super set ID-6364968)\Auth\obj\Debug\net9.0\fifth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\Week-5(Super set ID-6364968)\Auth\obj\Debug\net9.0\fifth.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\Week-5(Super set ID-6364968)\Auth\obj\Debug\net9.0\fifth.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\Week-5(Super set ID-6364968)\Auth\obj\Debug\net9.0\fifth.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\Week-5(Super set ID-6364968)\Auth\obj\Debug\net9.0\fifth.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\Week-5(Super set ID-6364968)\Auth\obj\Debug\net9.0\fifth.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\Week-5(Super set ID-6364968)\Auth\obj\Debug\net9.0\fifth.sourcelink.json
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\Week-5(Super set ID-6364968)\Auth\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\Week-5(Super set ID-6364968)\Auth\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\Week-5(Super set ID-6364968)\Auth\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\Week-5(Super set ID-6364968)\Auth\obj\Debug\net9.0\scopedcss\bundle\fifth.styles.css
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\Week-5(Super set ID-6364968)\Auth\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\Week-5(Super set ID-6364968)\Auth\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\Week-5(Super set ID-6364968)\Auth\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\Week-5(Super set ID-6364968)\Auth\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\Week-5(Super set ID-6364968)\Auth\obj\Debug\net9.0\fifth.csproj.Up2Date
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\Week-5(Super set ID-6364968)\Auth\obj\Debug\net9.0\fifth.dll
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\Week-5(Super set ID-6364968)\Auth\obj\Debug\net9.0\refint\fifth.dll
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\Week-5(Super set ID-6364968)\Auth\obj\Debug\net9.0\fifth.pdb
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\Week-5(Super set ID-6364968)\Auth\obj\Debug\net9.0\fifth.genruntimeconfig.cache
+C:\Users\KIIT\Desktop\Digital-Nurture-4.0-DotNetFSE-main\Cognizant Deep Skilling\Week-5(Super set ID-6364968)\Auth\obj\Debug\net9.0\ref\fifth.dll
